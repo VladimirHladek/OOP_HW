@@ -1,0 +1,16 @@
+C:\Users\Vladimir\source\repos\DZ1\ClassLibraryDZ1\bin\Debug\netcoreapp3.0\ClassLibraryDZ1.deps.json
+C:\Users\Vladimir\source\repos\DZ1\ClassLibraryDZ1\bin\Debug\netcoreapp3.0\ClassLibraryDZ1.dll
+C:\Users\Vladimir\source\repos\DZ1\ClassLibraryDZ1\bin\Debug\netcoreapp3.0\ClassLibraryDZ1.pdb
+C:\Users\Vladimir\source\repos\DZ1\ClassLibraryDZ1\obj\Debug\netcoreapp3.0\ClassLibraryDZ1.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\DZ1\ClassLibraryDZ1\obj\Debug\netcoreapp3.0\ClassLibraryDZ1.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\DZ1\ClassLibraryDZ1\obj\Debug\netcoreapp3.0\ClassLibraryDZ1.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\DZ1\ClassLibraryDZ1\obj\Debug\netcoreapp3.0\ClassLibraryDZ1.dll
+C:\Users\Vladimir\source\repos\DZ1\ClassLibraryDZ1\obj\Debug\netcoreapp3.0\ClassLibraryDZ1.pdb
+C:\Users\Vladimir\Desktop\DZ1\ClassLibraryDZ1\bin\Debug\netcoreapp3.0\ClassLibraryDZ1.deps.json
+C:\Users\Vladimir\Desktop\DZ1\ClassLibraryDZ1\bin\Debug\netcoreapp3.0\ClassLibraryDZ1.dll
+C:\Users\Vladimir\Desktop\DZ1\ClassLibraryDZ1\bin\Debug\netcoreapp3.0\ClassLibraryDZ1.pdb
+C:\Users\Vladimir\Desktop\DZ1\ClassLibraryDZ1\obj\Debug\netcoreapp3.0\ClassLibraryDZ1.csprojAssemblyReference.cache
+C:\Users\Vladimir\Desktop\DZ1\ClassLibraryDZ1\obj\Debug\netcoreapp3.0\ClassLibraryDZ1.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Desktop\DZ1\ClassLibraryDZ1\obj\Debug\netcoreapp3.0\ClassLibraryDZ1.AssemblyInfo.cs
+C:\Users\Vladimir\Desktop\DZ1\ClassLibraryDZ1\obj\Debug\netcoreapp3.0\ClassLibraryDZ1.dll
+C:\Users\Vladimir\Desktop\DZ1\ClassLibraryDZ1\obj\Debug\netcoreapp3.0\ClassLibraryDZ1.pdb
