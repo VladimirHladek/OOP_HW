@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ1\\ClassLibraryDZ1\\ClassLibraryDZ1.csproj": {}
+    "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ-2\\DZ-2\\DZ-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ1\\ClassLibraryDZ1\\ClassLibraryDZ1.csproj": {
+    "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ-2\\DZ-2\\DZ-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ1\\ClassLibraryDZ1\\ClassLibraryDZ1.csproj",
-        "projectName": "ClassLibraryDZ1",
-        "projectPath": "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ1\\ClassLibraryDZ1\\ClassLibraryDZ1.csproj",
+        "projectUniqueName": "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ-2\\DZ-2\\DZ-2.csproj",
+        "projectName": "DZ-2",
+        "projectPath": "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ-2\\DZ-2\\DZ-2.csproj",
         "packagesPath": "C:\\Users\\Vladimir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ1\\ClassLibraryDZ1\\obj\\",
+        "outputPath": "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ-2\\DZ-2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

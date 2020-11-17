@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {
-      "ClassLibraryDZ1/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "compile": {
-          "bin/placeholder/ClassLibraryDZ1.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ClassLibraryDZ1.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.0": {}
   },
-  "libraries": {
-    "ClassLibraryDZ1/1.0.0": {
-      "type": "project",
-      "path": "../ClassLibraryDZ1/ClassLibraryDZ1.csproj",
-      "msbuildProject": "../ClassLibraryDZ1/ClassLibraryDZ1.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": [
-      "ClassLibraryDZ1 >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
     "C:\\Users\\Vladimir\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ1\\DZ1\\DZ1.csproj",
-      "projectName": "DZ1",
-      "projectPath": "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ1\\DZ1\\DZ1.csproj",
+      "projectUniqueName": "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ-2\\DZ-2\\DZ-2.csproj",
+      "projectName": "DZ-2",
+      "projectPath": "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ-2\\DZ-2\\DZ-2.csproj",
       "packagesPath": "C:\\Users\\Vladimir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ1\\DZ1\\obj\\",
+      "outputPath": "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ-2\\DZ-2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -56,11 +37,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {
-            "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ1\\ClassLibraryDZ1\\ClassLibraryDZ1.csproj": {
-              "projectPath": "C:\\Users\\Vladimir\\Documents\\GitHub\\OOP_HW\\DZ1\\ClassLibraryDZ1\\ClassLibraryDZ1.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
